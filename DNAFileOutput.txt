@@ -1,0 +1,25 @@
+DNA Strand #1: 
+Original DNA Strand: GTATCCAATGCC
+Other DNA Strand: GGCATTGGATAC
+Percent GC content: 50%
+CpG islands start at the following indices: 
+No CpG islands in DNA Strand #1
+
+
+DNA Strand #2: 
+Original DNA Strand: GTATCCAATGCCGTATCCAATGCCGTATCCAATGCC
+Other DNA Strand: GGCATTGGATACGGCATTGGATACGGCATTGGATAC
+Percent GC content: 50%
+CpG islands start at the following indices: 
+11
+23
+
+
+DNA Strand #3: 
+Original DNA Strand: AAATCGTC
+Other DNA Strand: GACGATTT
+Percent GC content: 37.5%
+CpG islands start at the following indices: 
+4
+
+

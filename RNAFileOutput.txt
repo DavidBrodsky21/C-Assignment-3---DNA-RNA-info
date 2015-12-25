@@ -1,0 +1,4 @@
+RNA Strand #1: 
+Original RNA Strand: AUGCUUAUUAACUGAAAACAUAUGGGUAGUCGAUGA
+Amino Acid Sequence: M-L-I-N-M-G-S-R
+
